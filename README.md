@@ -17,7 +17,7 @@
 
 <p>
     <a href="https://github.com/Easychris"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
-  <a href="https://github.com/Easychris"><img alt="Bash" src="https://img.shields.io/badge/%20-solidity-lightgrey?logo=solidity"></a>
+  <a href="https://github.com/Easychris"><img alt="Solidity" src="https://img.shields.io/badge/%20-Solidity-lightgrey?logo=solidity"></a>
     <a href="https://github.com/Easychris"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
     <a href="https://github.com/Easychris"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="https://github.com/Easychris"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
@@ -50,7 +50,7 @@
 <p>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
     <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
-    <a href="#"><img alt="Obsidian" src ="https://img.shields.io/badge/%20-obsdian-blueviolet?logo=obsidian"></a>
+    <a href="#"><img alt="Obsidian" src ="https://img.shields.io/badge/%20-Obsdian-blueviolet?logo=obsidian"></a>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
     <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
     <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
