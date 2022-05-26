@@ -6,7 +6,8 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2196F3&lines=Always+learning+new+things;Full-stack+web+and+app+developer++;3%2B+years+of+coding+experience+++++++++)](https://git.io/typing-svg)
+  <a href="https://github.com/Easychris"><img src="https://readme-typing-svg.herokuapp.com?color=2196F3&lines=Always+learning+new+things;Full-stack+web+and+app+developer++;3%2B+years+of+coding+experience"></a>
+
 </p>
 
 
