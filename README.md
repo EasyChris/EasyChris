@@ -91,5 +91,5 @@
 
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-[![EasyChris's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EasyChris)](https://github.com/Easychris/)
+[![Easychris's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=easychris&bg_color=000000&color=ff9500&line=33a7ff&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
